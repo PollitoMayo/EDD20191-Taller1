@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\pollo\desktop\talleredd\main.cpp
+	<iostream>
+
+1554947060 source:c:\users\pollo\desktop\talleredd\src\posicion.cpp
+	"Posicion.h"
+
+1554947044 c:\users\pollo\desktop\talleredd\include\posicion.h
+
+1554947027 source:c:\users\pollo\desktop\talleredd\src\color.cpp
+	"Color.h"
+
+1554946978 c:\users\pollo\desktop\talleredd\include\color.h
+	<Posicion.h>
+	<string>
+
+1555272610 source:c:\users\pollo\desktop\talleredd\src\peon.cpp
+	"Peon.h"
+
+1555268273 c:\users\pollo\desktop\talleredd\include\peon.h
+	<Color.h>
+
+1555272691 source:c:\users\pollo\desktop\talleredd\src\rey.cpp
+	"Rey.h"
+
+1555269689 c:\users\pollo\desktop\talleredd\include\rey.h
+	<Color.h>
+
+1555270616 source:c:\users\pollo\desktop\talleredd\src\torre.cpp
+	"Torre.h"
+
+1555270054 c:\users\pollo\desktop\talleredd\include\torre.h
+	<Color.h>
+
+1555270909 source:c:\users\pollo\desktop\talleredd\src\alfil.cpp
+	"Alfil.h"
+
+1555270765 c:\users\pollo\desktop\talleredd\include\alfil.h
+	<Color.h>
+
+1555271368 source:c:\users\pollo\desktop\talleredd\src\dama.cpp
+	"Dama.h"
+
+1555271294 c:\users\pollo\desktop\talleredd\include\dama.h
+	<Color.h>
+
+1555271587 source:c:\users\pollo\desktop\talleredd\src\reina.cpp
+	"Reina.h"
+
+1555271414 c:\users\pollo\desktop\talleredd\include\reina.h
+	<Color.h>
+
+1555271971 source:c:\users\pollo\desktop\talleredd\src\caballo.cpp
+	"Caballo.h"
+
+1555271723 c:\users\pollo\desktop\talleredd\include\caballo.h
+	<Color.h>
+
